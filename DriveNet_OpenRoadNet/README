@@ -1,0 +1,3 @@
+This folder contains source code of 
+Built and deployed an integrated model (DriveNet + OpenRoadNet) with tensorRT optimization for freespace boundary and 
+object detection using DriveWorks SDK on NVIDIA Drive AGX Pegasus, achieving 95% mAP at 30-40 fps.
